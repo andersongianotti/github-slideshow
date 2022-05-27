@@ -1,5 +1,6 @@
-ayout: slide
+---
+layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Anderson
 Use the left arrow to go back!
